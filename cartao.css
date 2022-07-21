@@ -1,0 +1,22 @@
+body{
+ margin: 20px;
+ background-color: rgb(58, 58, 57);
+ font-family: 'Roboto', sans-serif;
+}
+#img{
+    background-image: url(/assets/backgorund.png);
+    background-repeat: no-repeat;
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+    padding: 1px 20px;
+    box-sizing: border-box;   
+}
+a{
+    text-decoration: none;
+   
+}
+a:active{
+    color: rgb(0, 38, 255);
+}
