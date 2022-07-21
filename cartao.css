@@ -4,7 +4,7 @@ body{
  font-family: 'Roboto', sans-serif;
 }
 #img{
-    background-image: url(/assets/backgorund.png);
+    background-image: url(assets/backgorund.png);
     background-repeat: no-repeat;
     margin: auto;
     width: 400px;
